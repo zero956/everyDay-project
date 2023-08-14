@@ -12,7 +12,7 @@ Vue.component(Menu.SubMenu.name, Menu.SubMenu)
 Vue.component(Breadcrumb.name, Breadcrumb)
 Vue.component(Breadcrumb.Item.name, Breadcrumb.Item)
 
-Vue.config.productionTip = false
+// Vue.config.productionTip = false
 
 new Vue({
   router,
